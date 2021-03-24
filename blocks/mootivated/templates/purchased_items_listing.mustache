@@ -1,0 +1,131 @@
+{{#hasitems}}
+    <div role="list" class="block_mootivated-items-list">
+        {{#items}}
+        <div
+            role="listitem"
+            aria-labelledby="store-item-{{uniqid}}"
+            aria-describedby="store-item-{{uniqid}}-desc"
+            class="item-wrapper">
+            <div class="item-content">
+
+                <div class="item-image">
+                    <img src="{{image_url}}" alt="" role="presentation">
+                </div>
+                <div class="item-information">
+                    <div>
+                        <h4 id="#store-item-{{uniqid}}">{{name}}{{#showquantity}} <span class="qty">x{{quantityowned}}</span>{{/showquantity}}</h4>
+                        {{^hidedescription}}<p id="#store-item-{{uniqid}}-desc">{{description}}</p>{{/hidedescription}}
+                        {{#isredeemed}}
+                            <p>{{redeemedonstr}}</p>
+                        {{/isredeemed}}
+                    </div>
+                </div>
+                <div class="item-side">
+                    <div>
+                        {{^isredeemed}}
+                        <button type="button"
+                            class="btn btn-secondary"
+                            data-action="item-redeem"
+                            data-itemid="{{id}}"
+                            data-url="{{redeemurl}}"
+                            {{#self_redeem}}data-selfredeem="true"{{/self_redeem}}
+                            {{^canredeem}}disabled{{/canredeem}}>
+                                {{#redeempending}}
+                                    {{#str}}redeempending, block_mootivated{{/str}}
+                                {{/redeempending}}
+                                {{^redeempending}}
+                                    {{#self_redeem}}
+                                        {{#str}}redeem, block_mootivated{{/str}}
+                                    {{/self_redeem}}
+                                    {{^self_redeem}}
+                                        {{#str}}requestredemption, block_mootivated{{/str}}
+                                    {{/self_redeem}}
+                                {{/redeempending}}
+                            </button>
+                        </form>
+                        {{/isredeemed}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{/items}}
+    </div>
+{{/hasitems}}
+{{^hasitems}}
+    <p>{{#str}}nopurchases, block_mootivated{{/str}}</p>
+{{/hasitems}}
+
+<div id="mootivated-redemption-modal-content" style="display: none;">
+    <div class="block_mootivated-redemption-request">
+        <form method="post" action="">
+            <p>{{#str}}redemptionrequestcomment, block_mootivated{{/str}}</p>
+            <div>
+                <textarea name="message" rows="3" maxlength="255"></textarea>
+            </div>
+            <div class="actions">
+                <div><button class="cancel btn btn-secondary">{{#str}}cancel, core{{/str}}</button></div>
+                <div><button type="submit" class="btn btn-primary">{{#str}}sendrequest, block_mootivated{{/str}}</button></div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="mootivated-self-redemption-modal-content" style="display: none;">
+    <div class="block_mootivated-redemption-request">
+        <form method="post" action="">
+            <p>{{#str}}selfredeemconfirm, block_mootivated{{/str}}</p>
+            <div class="actions">
+                <div><button class="cancel btn btn-secondary">{{#str}}no, core{{/str}}</button></div>
+                <div class="m-l-1"><button type="submit" class="btn btn-primary">{{#str}}yes, core{{/str}}</button></div>
+            </div>
+        </form>
+    </div>
+</div>
+
+{{#js}}
+require(['jquery', 'core/yui'], function($, Y) {
+    var requestHeader = {{#quote}}{{#str}}redemptionrequest, block_mootivated{{/str}}{{/quote}};
+    var selfHeader = {{#quote}}{{#str}}confirm, core{{/str}}{{/quote}};
+    var requestContent = $('#mootivated-redemption-modal-content').html();
+    var selfContent = $('#mootivated-self-redemption-modal-content').html();
+
+    $('body').on('click', '[data-action="item-redeem"]', function(e) {
+        var button = $(e.target);
+        var itemId = button.data('itemid');
+        var redeemUrl = button.data('url');
+        var selfRedeem = Boolean(button.data('selfredeem'));
+
+        if (!selfRedeem) {
+            redemptionPopup(requestHeader, requestContent, redeemUrl);
+        } else {
+            redemptionPopup(selfHeader, selfContent, redeemUrl);
+        }
+    });
+
+    function redemptionPopup(header, content, redeemUrl) {
+        Y.use('moodle-core-notification', function() {
+            var modal = new M.core.dialogue({
+                headerContent: header,
+                bodyContent: content,
+                draggable: true,
+                visible: false,
+                center: true,
+                modal: true,
+                width: '400px'
+            });
+            modal.show();
+            var body = $(modal.bodyNode.getDOMNode());
+            body.find('.cancel').click(function(e) {
+                e.preventDefault();
+                modal.hide();
+                modal.destroy();
+            });
+            var form = body.find('form');
+            form.attr('action', redeemUrl);
+            form.on('submit', function() {
+                body.find('button').prop('disabled', true);
+            });
+        });
+    }
+});
+{{/js}}

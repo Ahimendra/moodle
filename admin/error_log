@@ -1,0 +1,399 @@
+[01-Dec-2020 10:19:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[01-Dec-2020 10:19:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[01-Dec-2020 10:19:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[01-Dec-2020 10:19:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[01-Dec-2020 10:19:14 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[01-Dec-2020 10:20:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[01-Dec-2020 10:20:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[01-Dec-2020 10:20:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[01-Dec-2020 10:20:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[06-Dec-2020 08:16:10 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[06-Dec-2020 08:16:10 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[06-Dec-2020 08:16:10 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[06-Dec-2020 08:16:10 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[06-Dec-2020 08:16:11 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[06-Dec-2020 08:38:49 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[06-Dec-2020 08:38:49 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[06-Dec-2020 08:38:49 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[06-Dec-2020 08:38:49 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[06-Dec-2020 08:38:54 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[06-Dec-2020 08:38:54 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[06-Dec-2020 08:38:54 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[06-Dec-2020 08:38:54 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[06-Dec-2020 08:38:54 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[06-Dec-2020 08:39:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[06-Dec-2020 08:39:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[06-Dec-2020 08:39:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[06-Dec-2020 08:39:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[08-Jan-2021 07:50:18 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 07:52:04 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 07:58:01 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 07:59:07 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 08:04:44 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 08:07:39 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 08:16:25 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 08:17:37 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[08-Jan-2021 08:20:09 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[14-Jan-2021 16:26:08 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[14-Jan-2021 16:26:17 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[14-Jan-2021 16:28:39 America/Los_Angeles] Default exception handler: Cannot downgrade local_edwiserbridge from 2020112501 to 2020070800. Debug: 
+Error code: cannotdowngrade
+* line 680 of /lib/upgradelib.php: downgrade_exception thrown
+* line 1877 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 694 of /admin/index.php: call to upgrade_noncore()
+
+[21-Jan-2021 10:18:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 10:18:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 10:18:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 10:18:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 10:18:30 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 10:18:30 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 10:18:39 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 10:18:39 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 10:18:39 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 10:18:39 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 10:18:39 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 10:18:39 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 10:18:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 10:18:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 10:18:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 10:18:55 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 10:18:56 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 10:18:56 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 10:19:51 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 10:19:51 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 10:20:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 10:20:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 10:20:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 10:20:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 10:20:31 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 10:20:31 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 10:20:51 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 10:20:51 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 10:20:51 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 10:20:51 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:12:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:12:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:12:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:12:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:12:30 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:12:30 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:13:33 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:13:33 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:13:33 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:13:33 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:13:35 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:13:35 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:13:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:13:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:13:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:13:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:13:50 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:13:50 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:14:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:14:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:14:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:14:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:14:44 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:14:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:18:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:18:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:18:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:18:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:18:38 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:18:38 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:21:36 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:21:36 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:21:36 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:21:36 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:21:37 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:21:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:23:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:23:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:23:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:23:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:23:07 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:23:07 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:23:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:23:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:23:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:23:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:23:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 19:23:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 19:23:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 19:23:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 19:24:29 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:24:29 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:24:29 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:24:29 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:24:30 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 19:24:30 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 19:24:30 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 19:24:30 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 19:29:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:29:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:29:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:29:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:29:57 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:29:57 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:30:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:30:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:30:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:30:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:30:22 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:30:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:30:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:30:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:30:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:30:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:30:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 19:30:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 19:30:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 19:30:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 19:30:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:30:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:30:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:30:48 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:30:49 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:30:49 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 19:30:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 19:30:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 19:30:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 19:30:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 19:30:57 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 19:30:57 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 20:02:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 20:02:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 20:02:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 20:02:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 20:02:38 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 20:02:38 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 20:02:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 20:02:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 20:02:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 20:02:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 20:02:51 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 20:02:51 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 20:02:51 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 20:02:51 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 20:07:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 20:07:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 20:07:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 20:07:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 20:07:47 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 20:07:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 21:55:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 21:55:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 21:55:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 21:55:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 21:55:05 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 21:55:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 21:55:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 21:55:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 21:55:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 21:55:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 21:55:17 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 21:55:17 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 21:55:17 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 21:55:17 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 21:58:18 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 21:58:18 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 21:58:18 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 21:58:18 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 21:58:19 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 21:58:19 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 21:58:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 21:58:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 21:58:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 21:58:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 21:58:33 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 21:58:33 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 21:58:33 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 21:58:33 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 22:02:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:02:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:02:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:02:32 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:02:32 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:02:32 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:02:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:02:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:02:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:02:46 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:02:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 22:02:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 22:02:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 22:02:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 22:08:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:08:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:08:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:08:30 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:08:31 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 22:08:31 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 22:08:31 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 22:08:31 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 22:11:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:11:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:11:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:11:00 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:11:01 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:11:01 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:11:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:11:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:11:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:11:16 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:11:16 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:11:16 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:11:25 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:11:25 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:11:25 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:11:25 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:11:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 22:11:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 22:11:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 22:11:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 22:14:45 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:14:45 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:14:45 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:14:45 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:14:45 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:14:45 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:32:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:32:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:32:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:32:56 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:32:56 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:32:56 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:33:07 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:33:07 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:33:07 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:33:07 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:33:08 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 22:33:08 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 22:33:08 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 22:33:08 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 22:34:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:34:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:34:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:34:22 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:34:23 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:34:23 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:34:40 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:34:40 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:34:40 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:34:40 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:34:41 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:34:41 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:35:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:35:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:35:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:35:43 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:35:44 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:35:44 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:36:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:36:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:36:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:36:04 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:36:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2261
+[21-Jan-2021 22:36:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2265
+[21-Jan-2021 22:36:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2266
+[21-Jan-2021 22:36:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/lib/filelib.php on line 2267
+[21-Jan-2021 22:37:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:37:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:37:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:37:06 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:37:07 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:37:07 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:37:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:37:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:37:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:37:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:37:29 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:37:29 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:38:03 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:38:03 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:38:03 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:38:03 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:38:05 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:38:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:38:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:38:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:38:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:38:14 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:38:14 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:38:14 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:38:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:38:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:38:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:38:21 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:38:22 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:38:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:38:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:38:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:38:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:38:28 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[21-Jan-2021 22:38:29 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:38:29 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php:12) in /home/tlundy/public_html/auth/googleoauth2/lib.php on line 150
+[21-Jan-2021 22:38:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[21-Jan-2021 22:38:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[21-Jan-2021 22:38:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[21-Jan-2021 22:38:37 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15

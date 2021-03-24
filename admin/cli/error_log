@@ -1,0 +1,42 @@
+[11-Jun-2020 03:25:02 America/Los_Angeles] Exception ignored in shutdown function Closure::__invoke: Error writing to database
+[06-Dec-2020 08:27:01 America/Los_Angeles] Default exception handler: Exception - syntax error, unexpected end of file Debug: 
+Error code: generalexceptionmessage
+* line 139 of /auth/googleoauth2/lib.php: ParseError thrown
+* line 3909 of /lib/moodlelib.php: call to require_once()
+* line 930 of /lib/classes/session/manager.php: call to get_auth_plugin()
+* line 49 of /lib/classes/task/session_cleanup_task.php: call to core\session\manager::gc()
+* line 201 of /lib/cronlib.php: call to core\task\session_cleanup_task->execute()
+* line 119 of /lib/cronlib.php: call to cron_run_inner_scheduled_task()
+* line 73 of /lib/cronlib.php: call to cron_run_scheduled_tasks()
+* line 61 of /admin/cli/cron.php: call to cron_run()
+
+[06-Dec-2020 08:27:01 America/Los_Angeles] PHP Fatal error:  Uncaught coding_exception: Coding error detected, it must be fixed by a programmer: A lock was created but not released at:
+/home/tlundy/public_html/lib/classes/task/manager.php on line 554
+
+ Code should look like:
+
+ $factory = \core\lock\lock_config::get_lock_factory('type');
+ $lock = $factory->get_lock(Resource id #801);
+ $lock->release();  // Locks must ALWAYS be released like this.
+
+ in /home/tlundy/public_html/lib/classes/lock/lock.php:117
+Stack trace:
+#0 [internal function]: core\lock\lock->__destruct()
+#1 {main}
+  thrown in /home/tlundy/public_html/lib/classes/lock/lock.php on line 117
+[21-Jan-2021 20:08:01 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:03 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:04 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 20:08:06 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:01 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:02 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:03 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:03 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:05 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111
+[21-Jan-2021 21:58:06 America/Los_Angeles] PHP Notice:  Array to string conversion in /home/tlundy/public_html/lib/moodlelib.php on line 9111

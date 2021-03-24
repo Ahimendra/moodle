@@ -1,0 +1,99 @@
+<div id="place-auction-bid-{{uniqid}}" class="block_mootivated-place-auction-bid">
+    <table class="table table-striped">
+        <tr>
+            {{#hasbid}}
+            <th>{{#str}}openingbid, block_mootivated{{/str}}</th>
+            {{/hasbid}}
+            {{^hasbid}}
+            <th>{{#str}}yourbid, block_mootivated{{/str}}</th>
+            {{/hasbid}}
+            <td>
+                <input class="form-control bid-amount" type="number" min="0" value="0"> <img src="{{pointsimageurl}}" alt="{{pointsterm}}" class="icon" style="display: none;"/>
+            </td>
+        </tr>
+        {{#handlingfee}}
+        <tr>
+            <th>{{#str}}handlingfee, block_mootivated{{/str}}</th>
+            <td><span class="handling-fee"></span> <img src="{{pointsimageurl}}" alt="{{pointsterm}}" class="icon" /></td>
+        </tr>
+        <tr>
+            <th>{{#str}}totalcost, block_mootivated{{/str}}</th>
+            <td><span class="total-cost"></span> <img src="{{pointsimageurl}}" alt="{{pointsterm}}" class="icon" /></td>
+        </tr>
+        {{/handlingfee}}
+    </table>
+    <div class="bid-actions">
+        <button class="btn btn-secondary cancel-bid">{{#str}}cancel{{/str}}</button>
+        <div>
+            <span class="loading-spinner" style="display: none;">{{#pix}}i/loading{{/pix}}</span>
+            <button class="btn btn-primary btn-place-bid">{{#str}}placebid, block_mootivated{{/str}}</button>
+        </div>
+    </div>
+    <p class="notes"><small>{{#str}}placebidhelp, block_mootivated{{/str}}</small></p>
+</div>
+{{#js}}
+require(['jquery', 'block_mootivated/appearance', 'core/str'], function($, Appearance, Str) {
+    var root = $('#place-auction-bid-{{uniqid}}');
+    var total = root.find('.total-cost');
+    var handlingFeeContainer = root.find('.handling-fee');
+    var btnOk = root.find('.btn-place-bid');
+    var bidField = root.find('.bid-amount');
+    var loadingSpinner = root.find('.loading-spinner');
+    var notes = root.find('.notes');
+    var handlingfee = {{handlingfee}};
+    var mycoins = {{mycoins}};
+    var minbid = {{minbid}};
+    var decimalPlaces = {{decimalplaces}};
+
+    root.find('.cancel-bid').on('click', function(e) {
+        root.trigger('cancel-bid');
+    });
+
+    bidField.on('change', function(e) {
+        var bid = get_bid();
+        set_bid(bid); // Ensures that we don't go below the min.
+        update_total(bid);
+    });
+
+    btnOk.on('click', function(e) {
+        root.trigger('place-bid', [get_bid()]);
+        loadingSpinner.show();
+        $(e.target).prop('disabled', true);
+    });
+
+    function format_coins(coins) {
+        return Appearance.formatCoins(coins);
+    }
+
+    function get_bid() {
+        var bid = Math.round(parseFloat(bidField.val()) * Math.pow(10, decimalPlaces));
+        if (bid < minbid) {
+            bid = minbid;
+        }
+        return bid;
+    }
+
+    function set_bid(bid) {
+        bidField.val(bid / Math.pow(10, decimalPlaces));
+    }
+
+    function update_total(bid) {
+        needed = bid + handlingfee;
+        total.text(format_coins(needed));
+        btnOk.prop('disabled', bid < minbid || needed > mycoins);
+    }
+
+    // Init.
+    update_total(minbid);
+    set_bid(minbid);
+    handlingFeeContainer.text(format_coins(handlingfee));
+    bidField.prop('step', 1 / Math.pow(10, decimalPlaces));
+    bidField.prop('min', minbid / Math.pow(10, decimalPlaces))
+    bidField.show();
+
+    // Totara does not support string arguments in Templates, so update upon loading.
+    Str.get_string('placebidhelp', 'block_mootivated', format_coins(minbid)).then(function(str) {
+        notes.text(str);
+    });
+})
+{{/js}}

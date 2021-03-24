@@ -1,0 +1,42 @@
+<div class="block_mootivated-leaderboard-wrapper">
+    <div class="block_mootivated-leaderboard">
+        {{#hasitems}}
+        <table class="table table-striped flexible">
+            <thead>
+                <tr>
+                    <th class="col-rank">{{#str}}rank, block_mootivated{{/str}}</th>
+                    <th class="col-name">{{#str}}name{{/str}}</th>
+                    <th class="col-coins">{{pointsterm}}</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#leaderboard}}
+                <tr>
+                    <td>{{ rank }}</td>
+                    <td>
+                        {{{ pic }}} {{ name }}
+                    </td>
+                    <td>
+                        {{> block_mootivated/coin_count }}
+                    </td>
+                </tr>
+                {{/leaderboard}}
+            </tbody>
+        </table>
+        {{/hasitems}}
+        {{^hasitems}}
+        <div class="alert alert-info">{{#str}} leaderboardempty, block_mootivated {{/str}}</div>
+        {{/hasitems}}
+    </div>
+
+    {{#showavatar}}
+    <div class="block_mootivated-persona">
+        <div>
+            {{{avatarhtml}}}
+        </div>
+        <div class="block_mootivated-persona-coins">
+            {{> block_mootivated/coin_count }}
+        </div>
+    </div>
+    {{/showavatar}}
+</div>

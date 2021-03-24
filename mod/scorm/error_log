@@ -1,0 +1,16 @@
+[28-Aug-2020 13:28:16 America/Los_Angeles] Cannot find session record e2d2f8d01e5e74c2d9eab6404e1c6cea for user 2, creating new session.
+[01-Dec-2020 10:19:19 America/Los_Angeles] Default exception handler: Coding error detected, it must be fixed by a programmer: PHP catchable fatal error Debug: Object of class stdClass could not be converted to string
+Error code: codingerror
+* line 424 of /lib/setuplib.php: coding_exception thrown
+* line 140 of /mod/scorm/view.php: call to default_error_handler()
+
+[01-Dec-2020 10:19:19 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[01-Dec-2020 10:19:20 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[01-Dec-2020 10:19:20 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[01-Dec-2020 10:19:20 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[01-Dec-2020 10:19:20 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15
+[01-Dec-2020 10:19:49 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[01-Dec-2020 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'context_course' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 12
+[01-Dec-2020 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_course_list_element' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 13
+[01-Dec-2020 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'DateTime' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 14
+[01-Dec-2020 10:19:50 America/Los_Angeles] PHP Warning:  The use statement with non-compound name 'core_date' has no effect in /home/tlundy/public_html/theme/edumy/ccn/user_handler/ccn_user_handler.php on line 15

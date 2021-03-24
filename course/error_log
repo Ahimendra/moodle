@@ -1,0 +1,11 @@
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: messages_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler.php on line 395
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: profile_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler.php on line 413
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: preferences_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler.php on line 431
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: grades_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler.php on line 449
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: messages_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 203
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: profile_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 204
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: preferences_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 205
+[06-Dec-2020 08:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: grades_link in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 206
+[21-Jan-2021 22:07:51 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[21-Jan-2021 22:08:02 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199

@@ -1,0 +1,153 @@
+{{#hasitems}}
+    <div role="list" class="block_mootivated-items-list">
+        {{#items}}
+        <div
+            role="listitem"
+            aria-labelledby="store-item-{{uniqid}}"
+            aria-describedby="store-item-{{uniqid}}-desc"
+            class="
+                item-wrapper
+                {{#issoldout}}item-soldout{{/issoldout}}
+                {{#isauction}}item-auction{{/isauction}}
+                {{#hasvariants}}item-has-variants{{/hasvariants}}
+            "
+            data-item-id="{{id}}"
+            data-item-buyurl="{{buyurl}}"
+            data-item-hasbid="{{hasbid}}"
+            data-item-cost="{{cost}}"
+            data-item-auction_bid="{{auction_bid}}"
+            data-item-minimum_bid="{{minimum_bid}}"
+            data-item-handling_fee="{{handling_fee}}"
+            data-item-name="{{name}}"
+            data-item-thumbnailurl="{{thumbnail_url}}"
+            data-item-numremaining="{{#isunlimited}}999{{/isunlimited}}{{^isunlimited}}{{num_remaining}}{{/isunlimited}}"
+            >
+            <div class="item-content">
+                <div class="item-image">
+                    <a href="{{image_url}}" target="_blank">
+                        <img src="{{thumbnail_url}}" alt="" role="presentation">
+                        <div class="item-soldout-marker">
+                            <img src="{{soldouturl}}" alt="" role="presentation">
+                        </div>
+                    </a>
+                </div>
+                <div class="item-information">
+                    <div>
+                        <h4 id="#store-item-{{uniqid}}">{{name}}</h4>
+                        <p id="#store-item-{{uniqid}}-desc">{{description}}</p>
+                    </div>
+                    <div class="item-footer">
+                        <div>
+                            {{timeleft}}
+                        </div>
+                        {{#ispurchase}}
+                            {{^hasvariants}}
+                                {{^isunlimited}}
+                                    {{^issoldout}}
+                                        <div>{{nremainingstr}}</div>
+                                    {{/issoldout}}
+                                {{/isunlimited}}
+                            {{/hasvariants}}
+                        {{/ispurchase}}
+                        {{#israffle}}
+                            <div>{{#str}}raffle, block_mootivated{{/str}}</div>
+                            <div>{{ntowinstr}}</div>
+                            <div>{{nentriesstr}}</div>
+                            <div>{{winchancesstr}}</div>
+                        {{/israffle}}
+                        {{#isauction}}
+                            {{^mineishighest}}
+                                {{^hasbid}}
+                                    <div>{{#str}}nobidsyet, block_mootivated{{/str}}</div>
+                                {{/hasbid}}
+                                {{#hasbid}}
+                                    <div>{{nbidsstr}}</div>
+                                {{/hasbid}}
+                            {{/mineishighest}}
+                            {{#mineishighest}}
+                                <div>{{#str}}winningbid, block_mootivated{{/str}}</div>
+                            {{/mineishighest}}
+                        {{/isauction}}
+                    </div>
+                </div>
+                <div class="item-side">
+                    <div>
+                        {{> block_mootivated/coin_count }}
+                    </div>
+                    <div class="buy-action">
+                        {{#hasvariants}}
+                            <select class="form-control variant-select" {{^canbuy}}disabled{{/canbuy}}>
+                                <option value="">{{#str}}choosedots{{/str}}</option>
+                                {{#variants}}
+                                    <option value="{{id}}"
+                                            data-item-buyurl="{{buyurl}}"
+                                            data-item-name="{{name}}"
+                                            data-item-numremaining="{{#isunlimited}}999{{/isunlimited}}{{^isunlimited}}{{num_remaining}}{{/isunlimited}}"
+                                            {{#issoldout}}disabled{{/issoldout}}>
+                                        {{label}}
+                                        {{^isunlimited}}{{^issoldout}}({{nleftstr}}){{/issoldout}}{{/isunlimited}}
+                                        {{#issoldout}} ({{#str}}soldout, block_mootivated{{/str}}){{/issoldout}}
+                                    </option>
+                                {{/variants}}
+                            </select>
+                        {{/hasvariants}}
+                        {{#cartenabled}}
+                            {{#ispurchase}}
+                                {{^issoldout}}
+                                    <button data-action="cart" type="button" class="btn btn-secondary add-to-cart-btn" {{^canbuy}}disabled{{/canbuy}}>
+                                        <span class="add-to-cart-label">{{#str}}addtocart, block_mootivated{{/str}}</span>
+                                        <span class="add-to-cart-loading" style="display: none">{{#pix}}i/loading{{/pix}}</span>
+                                    </button>
+                                {{/issoldout}}
+                            {{/ispurchase}}
+                        {{/cartenabled}}
+                        <button data-action="buy" type="button" class="btn btn-secondary" {{^canbuy}}disabled{{/canbuy}}>
+                            {{^issoldout}}
+                                {{#israffle}}
+                                    {{#str}}buyentry, block_mootivated{{/str}}
+                                {{/israffle}}
+                                {{#ispurchase}}
+                                    {{#str}}buy, block_mootivated{{/str}}
+                                {{/ispurchase}}
+                                {{#isauction}}
+                                    {{#mineishighest}}
+                                        {{#str}}increasebid, block_mootivated{{/str}}
+                                    {{/mineishighest}}
+                                    {{^mineishighest}}
+                                        {{#str}}placebid, block_mootivated{{/str}}
+                                    {{/mineishighest}}
+                                {{/isauction}}
+                            {{/issoldout}}
+                            {{#issoldout}}
+                                {{#str}}soldout, block_mootivated{{/str}}
+                            {{/issoldout}}
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{/items}}
+        <script type="application/json" id="block-mootivated-shopping-cart-json-{{uniqid}}">{{{cartjson}}}</script>
+    </div>
+{{/hasitems}}
+{{^hasitems}}
+    <p>{{#str}}noitemsatthemoment, block_mootivated{{/str}}</p>
+{{/hasitems}}
+
+{{#js}}
+require(['jquery', 'block_mootivated/store', 'block_mootivated/cart'],
+        function($, Store, ShoppingCart) {
+
+    var coins = {{coins}};
+    var returnto = {{#quote}}{{{returnto}}}{{/quote}}
+    var cartjson = $('#block-mootivated-shopping-cart-json-{{uniqid}}');
+    var cartdata;
+    try {
+        cartdata = JSON.parse(cartjson.text());
+    } catch (err) {
+    }
+    var cart = new ShoppingCart(cartdata);
+    var store = new Store(coins, returnto, cart);
+    store.init();
+});
+{{/js}}

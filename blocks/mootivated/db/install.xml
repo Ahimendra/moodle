@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="blocks/mootivated/db" VERSION="20191123" COMMENT="XMLDB file for Moodle blocks/mootivated"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="block_mootivated_cart" COMMENT="The shopping cart.">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="itemid" TYPE="char" LENGTH="36" NOTNULL="true" SEQUENCE="false" COMMENT="The store item ID"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="The name of the item"/>
+        <FIELD NAME="imageurl" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="The URL to the image for this line"/>
+        <FIELD NAME="quantity" TYPE="int" LENGTH="3" NOTNULL="true" SEQUENCE="false" COMMENT="The quantity of this item"/>
+        <FIELD NAME="cost" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="The cost per unit of this item."/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="uniquseritem" UNIQUE="true" FIELDS="userid, itemid"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

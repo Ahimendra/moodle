@@ -1,0 +1,97 @@
+<div class="block_mootivated-shopping-cart mt-2">
+
+{{^isempty}}
+
+    {{#insufficientfunds}}
+        <div class="alert alert-warning alert-block my-3">
+            {{#str}}insufficientfundstocheckout, block_mootivated{{/str}}
+        </div>
+    {{/insufficientfunds}}
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>{{#str}}name, block_mootivated{{/str}}</th>
+                <th>{{#str}}unitcost, block_mootivated{{/str}}</th>
+                <th>{{#str}}quantity, block_mootivated{{/str}}</th>
+                <th class="text-right">{{#str}}total, block_mootivated{{/str}}</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#lines}}
+            <tr>
+                <td class="line-item">
+                    <div class="line-item-image">
+                        <img src="{{imageurl}}" alt="" role="presentation">
+                    </div>
+                    <div class="line-item-name">
+                        {{name}}
+                        <br><small><a href="{{removeurl}}">{{#str}}remove{{/str}}</a></small>
+                    </div>
+                </td>
+                <td class="line-cost">{{cost}}</td>
+                <td class="line-qty">
+                    <input type="text" value="{{quantity}}" class="form-control" name="qty[{{itemid}}]">
+                </td>
+                <td class="line-total">{{total}}</td>
+            </tr>
+            {{/lines}}
+        </tbody>
+    </table>
+
+    <div class="my-2 text-right">
+        <button type="submit" class="btn btn-primary btn-sm">
+            {{#str}} updatequantities, block_mootivated {{/str}}
+        </button>
+    </div>
+
+    <hr>
+
+    <div class="total mb-3">
+        <div class="mr-3"><strong>{{#str}}total, block_mootivated{{/str}}</strong></div>
+        {{> block_mootivated/coin_count }}
+    </div>
+
+    <div class="actions">
+        <a class="btn btn-default" href="{{storeurl}}">{{#str}}continuebrowsing, block_mootivated{{/str}}</a>
+        <button type="button" id="block_mootivated-checkout" class="btn btn-primary" {{#insufficientfunds}}disabled{{/insufficientfunds}}>{{#str}}placeyourorder, block_mootivated{{/str}}</button>
+    </div>
+
+    <p class="small mt-4">{{shoppingcartnote}}</p>
+{{/isempty}}
+{{#isempty}}
+    <p>{{#str}}shoppingcartempty, block_mootivated{{/str}}</p>
+    <p><a class="btn btn-default" href="{{storeurl}}">{{#str}}continuebrowsing, block_mootivated{{/str}}</a></p>
+{{/isempty}}
+</div>
+{{#js}}
+require(['jquery', 'core/str', 'core/notification'], function($, Str, Notification) {
+
+    var strings = [
+        {key: 'confirmpurchase', component: 'block_mootivated'},
+        {key: 'areyousuretocheckout', component: 'block_mootivated'},
+        {key: 'yes', component: 'core'},
+        {key: 'cancel', component: 'core'},
+    ];
+    var strPromise = Str.get_strings(strings);   // Preload.
+
+    $('#block_mootivated-checkout').on('click', function(e) {
+        e.preventDefault();
+        var node = $(e.target);
+        node.prop('disabled', true);
+        strPromise.then(function(s) {
+            Notification.confirm(s[0], s[1], s[2], s[3], function() {
+                var hiddinput = $('<input>', { name: 'checkout_and_pay', type: 'hidden', value: '1'});
+                var form = node.closest('form');
+                form.append(hiddinput);
+                if (typeof M.core_formchangechecker !== 'undefined') {
+                    M.core_formchangechecker.set_form_submitted();
+                }
+                form.submit();
+            }, function() {
+                node.prop('disabled', false);
+            });
+        });
+    });
+});
+{{/js}}

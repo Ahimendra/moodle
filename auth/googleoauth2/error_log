@@ -1,0 +1,28 @@
+[06-Dec-2020 08:16:15 America/Los_Angeles] Default exception handler: auth_googleoauth2/invalidstateparam Debug: 
+Error code: invalidstateparam
+$a contents: 
+* line 78 of /auth/googleoauth2/lib.php: moodle_exception thrown
+* line 27 of /auth/googleoauth2/facebook_redirect.php: call to googleoauth2_provider_redirect()
+
+[06-Dec-2020 08:16:15 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[06-Dec-2020 08:21:02 America/Los_Angeles] Default exception handler: auth_googleoauth2/invalidstateparam Debug: 
+Error code: invalidstateparam
+$a contents: 
+* line 78 of /auth/googleoauth2/lib.php: moodle_exception thrown
+* line 27 of /auth/googleoauth2/facebook_redirect.php: call to googleoauth2_provider_redirect()
+
+[06-Dec-2020 08:21:02 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[06-Dec-2020 08:22:51 America/Los_Angeles] Default exception handler: auth_googleoauth2/invalidstateparam Debug: 
+Error code: invalidstateparam
+$a contents: 
+* line 78 of /auth/googleoauth2/lib.php: moodle_exception thrown
+* line 27 of /auth/googleoauth2/facebook_redirect.php: call to googleoauth2_provider_redirect()
+
+[06-Dec-2020 08:22:51 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199
+[06-Dec-2020 08:24:55 America/Los_Angeles] Default exception handler: auth_googleoauth2/invalidstateparam Debug: 
+Error code: invalidstateparam
+$a contents: 
+* line 78 of /auth/googleoauth2/lib.php: moodle_exception thrown
+* line 27 of /auth/googleoauth2/facebook_redirect.php: call to googleoauth2_provider_redirect()
+
+[06-Dec-2020 08:24:56 America/Los_Angeles] PHP Notice:  Undefined variable: dashboard_sticky_header in /home/tlundy/public_html/theme/edumy/ccn/ccn_themehandler_context.php on line 199

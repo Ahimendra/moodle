@@ -1,0 +1,23 @@
+{{#hasitems}}
+    <table class="table flexible">
+        <thead>
+            <tr>
+                <th>{{pointsterm}}</th>
+                <th></th>
+                <th>{{#str}}date{{/str}}</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#items}}
+            <tr>
+                <td>{{> block_mootivated/coin_count }}</td>
+                <td>{{ reason }}</td>
+                <td>{{ date }}</td>
+            </tr>
+            {{/items}}
+        </tbody>
+    </table>
+{{/hasitems}}
+{{^hasitems}}
+    <p>{{#str}}nothingtodisplay, core{{/str}}</p>
+{{/hasitems}}

@@ -1,0 +1,37 @@
+<div class="block_mootivated-image-popup" id="mootivated-popup">
+    <div class="wrapper">
+        <a href="#" role="button" id="mootivated-loading-close" class="close">{{#pix}}close, block_mootivated, {{#str}}closebuttontitle, core{{/str}}{{/pix}}</a>
+        <span id="mootivated-loading-in-popup">{{#pix}}i/loading, core{{/pix}}</span>
+        <img src="{{imageurl}}" id="mootivated-image-in-popup" alt="" class="image" />
+    </div>
+</div>
+
+{{#js}}
+require(['jquery'], function($, Popup) {
+    var root = $('#mootivated-popup');
+
+    // Click on backdrop.
+    root.on('click', function(e) {
+        if (e.target == this) {
+            e.preventDefault();
+            root.trigger('close');
+        }
+    });
+
+    // Click on close button.
+    $('#mootivated-loading-close').on('click', function(e) {
+        e.preventDefault();
+        root.trigger('close');
+    });
+
+    // Swap loading and image.
+    $('#mootivated-image-in-popup').on('load', function(e) {
+        $('#mootivated-loading-in-popup').hide();
+        $(this).show();
+    }).each(function() {
+        if (this.complete) {
+            $(this).trigger('load');
+        };
+    });
+});
+{{/js}}

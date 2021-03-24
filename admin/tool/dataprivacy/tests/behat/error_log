@@ -1,0 +1,5 @@
+[29-Dec-2020 03:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Behat\MinkExtension\Context\RawMinkContext' not found in /home/tlundy/public_html/lib/behat/behat_base.php:59
+Stack trace:
+#0 /home/tlundy/public_html/admin/tool/dataprivacy/tests/behat/behat_tool_dataprivacy.php(26): require_once()
+#1 {main}
+  thrown in /home/tlundy/public_html/lib/behat/behat_base.php on line 59

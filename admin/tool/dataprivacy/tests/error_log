@@ -1,0 +1,4 @@
+[27-Dec-2020 20:11:27 UTC] PHP Fatal error:  Uncaught Error: Class 'advanced_testcase' not found in /home/tlundy/public_html/admin/tool/dataprivacy/tests/filtered_userlist_test.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tlundy/public_html/admin/tool/dataprivacy/tests/filtered_userlist_test.php on line 32

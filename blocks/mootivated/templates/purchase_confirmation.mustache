@@ -1,0 +1,33 @@
+<div id="purchase-confirmation-{{uniqid}}" class="block_mootivated-purchase-confirmation">
+    <div class="confirmation-message">
+        {{message}}
+    </div>
+    <div class="confirmation-actions">
+        <button class="btn btn-secondary cancel-purchase">{{#str}}cancel{{/str}}</button>
+        <div>
+            <form action="{{buyurl}}" class="confirmation-form" method="post">
+                <span class="loading-spinner" style="display: none;">{{#pix}}i/loading{{/pix}}</span>
+                <button type="submit" class="btn btn-primary btn-confirm-purchase">{{#str}}yes, core{{/str}}</button>
+            </form>
+        </div>
+    </div>
+</div>
+{{#js}}
+require(['jquery'], function($) {
+    var root = $('#purchase-confirmation-{{uniqid}}');
+    var form = root.find('.confirmation-form');
+    var cancelbtn = root.find('.cancel-purchase');
+    var buybtn = root.find('.btn-confirm-purchase');
+    var loadingSpinner = root.find('.loading-spinner');
+
+    cancelbtn.on('click', function(e) {
+        root.trigger('cancel');
+    });
+
+    form.on('submit', function(e) {
+        loadingSpinner.show();
+        cancelbtn.prop('disabled', true);
+        buybtn.prop('disabled', true);
+    });
+})
+{{/js}}
